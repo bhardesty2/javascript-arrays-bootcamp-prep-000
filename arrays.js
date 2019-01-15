@@ -22,6 +22,4 @@ var tomatoSauceIngredients = [
   'oregano'
 ]
 
-var evenNumbers = new Array();
-
 var chocolateBars = ["snickers", "hundred grand", "kit kat", "skittles"]
