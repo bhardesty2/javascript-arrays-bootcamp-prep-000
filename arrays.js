@@ -50,3 +50,8 @@ function removeElementFromBeginningOfArray(array){
 function accessElementInArray(array, index){
   return array[index];
 }
+
+function removeElementFromBeginningOfArray(array){
+  array.slice(1);
+  return array
+}
