@@ -52,7 +52,7 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromBeginningOfArray(array){
-  return array(1);
+  return array.slice(1);
 }
 
 function removeElementFromEndOfArray(array){
