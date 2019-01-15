@@ -31,3 +31,8 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 array.unshift(element);
 return array
 }
+
+function removeElementFromEndOfArray(array){
+  array.pop();
+  return array
+}
