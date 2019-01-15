@@ -26,4 +26,4 @@ var evenNumbers = new Array();
 
 var chocolateBars = [];
 
-function chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+function chocolateBars = ['snickers', 'hundred grand', 'kit kat', 'skittles'];
